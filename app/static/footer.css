@@ -1,0 +1,12 @@
+.footer {
+  background-color: #f9f9f9;
+  padding: 10px;
+  text-align: center;
+  border-top: 2px solid #ccc;
+  background-color: rgba(0, 0, 0, 0.607);
+  margin-top: 200px;
+}
+.footer h1 {
+  color: darkgreen;
+
+}
